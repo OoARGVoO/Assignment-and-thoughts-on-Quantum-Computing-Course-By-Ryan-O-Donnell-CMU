@@ -49,4 +49,6 @@ If ans toggle (x2)
 If ans toggle (xn)
 ```
 
+Also this is helpful when we are doing if f then minus
+
 Dude this is cool.
